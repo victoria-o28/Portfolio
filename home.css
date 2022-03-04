@@ -2,17 +2,22 @@ body{background-image: url("https://static.vecteezy.com/system/resources/preview
     font-family: Arial, Helvetica, sans-serif;
 }
 img {
-    width: 10cm;
-    height: 10cm; 
+    width: 8cm;
+    height: 8cm; 
     float: left;
-  }
-  h1{
+}
+ h1{
     font-style: bold;
     text-align: left;
     background-color: rgb(255, 196, 0) 
   }
-  p{
+  .Description{
     width: 800px;
     float: right;
     font-size: large;
   }
+  footer{display: flex; 
+    justify-content: space-between;
+    background-color: black;
+    color: beige;
+}
