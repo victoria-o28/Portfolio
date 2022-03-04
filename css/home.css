@@ -3,8 +3,8 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
  img {
-    width: 8cm;
-    height: 8cm; 
+    width: 9cm;
+    height: 9cm; 
     /* float: left; */
 }
  .link{
@@ -18,8 +18,9 @@ body{
   .Description{
     width: 800px;
     float: right;
-    font-size: large;
+    font-size: x-large;
     font-style: bold;
+    height: 25vh
   }
   footer{ 
     display: flex;
