@@ -9,6 +9,10 @@ img {
   h1{
     font-style: bold;
     text-align: left;
-    background-color: rgb(255, 196, 0)
+    background-color: rgb(255, 196, 0) 
   }
- 
+  p{
+    width: 800px;
+    float: right;
+    font-size: large;
+  }
